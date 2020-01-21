@@ -45,8 +45,8 @@ So, the problem of demand pull inflation arises when people have more money than
 
 It has to be clearly understood that inflation as we know is the sum total of both of these.
 RBI Reduces rates, People get more money to spend, so demand rises, as supply can't be raised immediately, prices go up (But people don't care as they have money at hand to pay) This also forces the cost of raw materials to go up, and now, due to rise in prices, demand falls to the same old level, with the net change being just a rise in prices.
-This is the invisible dance, that has been allowing growing economies to show exponential levels of growth in GDP all these years.
-Our situation has less demand, but yet inflation. So, it's not a cause of demand pull inflation.
+<em>This is the beautiful, invisible dance, that has been allowing growing economies to show exponential levels of growth in GDP all these years.</em>
+<u>Our situation has less demand, but yet inflation. So, it's not a cause of demand pull inflation.</u>
 
 So, the solution adopted by the centre as explained above can't do much good. But, the common man has to have more money to expend, for quite sometime, if we want demand cycle to pick up.
 
