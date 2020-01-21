@@ -4,8 +4,8 @@ layout: post
 title: Money vs Currency
 subtitle: What?! Are they both not the same? What do you earn?
 description: The truth behind meaningful money and just fiat pieces of paper that we work for.
-image: https://res.cloudinary.com/economics4u/image/upload/v1579626392/oliver-cole-6x5y2V4qgf4-unsplash_al29l8.jpg
-optimized_image: https://res.cloudinary.com/economics4u/image/upload/v1579626392/oliver-cole-6x5y2V4qgf4-unsplash_al29l8.jpg
+image: https://res.cloudinary.com/economics4u/image/upload/v1579627862/money-2991837_1280_ldd17r.jpg
+optimized_image: https://res.cloudinary.com/economics4u/image/upload/v1579627862/money-2991837_1280_ldd17r.jpg
 category: world
 tags:
   - world
