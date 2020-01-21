@@ -1,15 +1,15 @@
 ---
 layout: author
 photo: /assets/img/uploads/profile.png
-name: thiagorossener
-display_name: Thiago Rossener
+name: arvind
+display_name: Arvind
 position: Chief Editor
-bio: Just a developer.
-github_username: thiagorossener
-facebook_username: thiagorossener
-twitter_username: thiagorossener
-instagram_username: thiagorossener
-linkedin_username: thiagorossener
-medium_username: thiagorossener
+bio: A guy who likes his coffee black, and T shirt white.
+github_username: arvindvenkat
+facebook_username: arvindvenky
+twitter_username: arvven
+instagram_username: arvven
+linkedin_username: arvind-venkat
+medium_username: arvindvenkat
 ---
 
