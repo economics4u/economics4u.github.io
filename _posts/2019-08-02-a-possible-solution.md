@@ -1,5 +1,5 @@
 ---
-date: 2019-10-04 10:00:40
+date: 2019-08-02 10:00:40
 layout: post
 title: A possible Solution
 subtitle: What the Great Indian Slowdown needs!

@@ -1,5 +1,5 @@
 ---
-date: 2019-10-04 10:00:40
+date: 2019-10-02 10:00:40
 layout: post
 title: The Slowdown Story
 subtitle: The Great Indian Slowdown is here!

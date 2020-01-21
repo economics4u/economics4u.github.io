@@ -1,5 +1,5 @@
 ---
-date: 2019-10-04 10:00:40
+date: 2019-08-04 10:00:40
 layout: post
 title: The Crisis of Credit
 subtitle: Linking slowdowns and recessions with excessively high debt cycles
