@@ -1,12 +1,12 @@
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by Thiago Rossener.
+name: Economics4U
+title: Economics 4 U
+description: The Home of Quality Economics, business, and finance editorials, Op-Ed, commentary and independedent and unbiased research.
 tags:
-  - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
-email: youremail@xyz.com
-disqus_username: disqus_username
+  - economics4u
+  - finance news
+  - economics
+  - business news
+  - economic news
+email: arvindvenkat98@gmail.com
+disqus_username: economics4u
 show_hero: true
