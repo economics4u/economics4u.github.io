@@ -84,5 +84,5 @@ To wrap up,
 
 Yes, this system is screwed, but, any other, with a limit on the supply of the currency, would do more harm than good, and reduce growth. It is the ever increasing demand for more, that drives economic growth and innovation.
 
-Only as long as people feel that they lose value if they keep their money idle, do they invest it or work for more.
+<BLOCKQUOTE>Only as long as people feel that they lose value if they keep their money idle, do they invest it or work for more.</BLOCKQUOTE>
  This was more practically seen in the Japanese example, where they faced deflation (continuous reduction in the prices of everything!!!) for over a decade, and their growth stalled.
