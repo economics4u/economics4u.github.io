@@ -4,8 +4,8 @@ layout: post
 title: A possible Solution
 subtitle: What the Great Indian Slowdown needs!
 description: Here is what can be a very good solution to the slowdown woes.
-image: https://res.cloudinary.com/economics4u/image/upload/v1579624965/slowdown_cya8ls.jpg
-optimized_image: https://res.cloudinary.com/economics4u/image/upload/v1579624965/slowdown_cya8ls.jpg
+image: https://res.cloudinary.com/economics4u/image/upload/v1579625361/proble_ufa1r7.png
+optimized_image: https://res.cloudinary.com/economics4u/image/upload/v1579625361/proble_ufa1r7.png
 category: india
 tags:
   - india
