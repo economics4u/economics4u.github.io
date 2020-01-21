@@ -10,6 +10,6 @@ facebook_username: arvindvenky
 twitter_username: arv_ven
 instagram_username: arv_ven
 linkedin_username: arvind-venkat
-medium_username: arvindvenkat
+medium_username: arv_ven
 ---
 
