@@ -1,5 +1,5 @@
 ---
-date: 2020-01-22 06:00:40
+date: 2020-01-22 03:00:40
 layout: post
 title: Why should we worry about the US Trade Deals?
 subtitle: So, the US-China Deal Part 1 is finalised, and next up are deals with Europe and India. Should we be worried?
