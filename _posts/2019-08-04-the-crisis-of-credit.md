@@ -1,9 +1,9 @@
 ---
 date: 2019-10-04 10:00:40
 layout: post
-title: A possible Solution
-subtitle: What the Great Indian Slowdown needs!
-description: Here is what can be a very good solution to the slowdown woes.
+title: The Crisis of Credit
+subtitle: Linking slowdowns and recessions with excessively high debt cycles
+description: Here we try to study the causes of recessions as a factor of the debt cycles that just align up perfectly.
 image: https://res.cloudinary.com/economics4u/image/upload/v1579625361/proble_ufa1r7.png
 optimized_image: https://res.cloudinary.com/economics4u/image/upload/v1579625361/proble_ufa1r7.png
 category: india
@@ -24,7 +24,7 @@ First, let's see what would normally happen in a slowdown or a recession...
 
 3) As large global economies start to fail, they start to reduce their imports (These contribute to over 34 percentage of our country's income... just for instance imagine if all the 20% of people dependent on the Export of services sector lose their jobs.)
 
-<strong>"Hol' up, wait a minute..."</strng>
+<strong>"Hol' up, wait a minute..."</strong>
 
 The basic law of economics is that, <em>"My expense is your income"</em>, and that someone's loss is someone's gain. So, if all countries are losing, who is gaining?
 
