@@ -6,7 +6,7 @@ subtitle: The time bomb that we dropped on the world economy.
 description: Will the world recover from the worst man made economic disaster that is getting stronger just as you're reading this?
 image: https://res.cloudinary.com/economics4u/image/upload/c_scale,w_981/v1579622361/nuclear-weapons-test-67557_1920_mfihuc.jpg
 optimized_image: https://res.cloudinary.com/economics4u/image/upload/v1579622533/nuclear_optimised_ianotn.jpg
-category: india
+category: world
 tags:
   - world
   - recession
