@@ -4,8 +4,8 @@ layout: post
 title: The Crisis of Credit
 subtitle: Linking slowdowns and recessions with excessively high debt cycles
 description: Here we try to study the causes of recessions as a factor of the debt cycles that just align up perfectly.
-image: https://res.cloudinary.com/economics4u/image/upload/v1579625361/proble_ufa1r7.png
-optimized_image: https://res.cloudinary.com/economics4u/image/upload/v1579625361/proble_ufa1r7.png
+image: https://res.cloudinary.com/economics4u/image/upload/v1579625876/Copy_2Bof_2BDotcom_2Bbust-3_w3uvph.jpg
+optimized_image: https://res.cloudinary.com/economics4u/image/upload/v1579625876/Copy_2Bof_2BDotcom_2Bbust-3_w3uvph.jpg
 category: india
 tags:
   - india
