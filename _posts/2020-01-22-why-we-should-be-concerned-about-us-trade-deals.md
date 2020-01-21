@@ -18,7 +18,7 @@ Well... at least partly. </em>
 <strong>Why a trade war in the first place?</strong>
 <em> Answer: The USA has historically had a huge and consistently widening deficit with China in terms of trade. The US believed it was due to two reasons:
 <ol><li>China Encouraging exports with excessive manufacturing subsidies </li>
-<li> China clamping down on imports from USA with extra Duty on US imports (Countervailing Duty or CVD)</li></ol></em>
+<li> China clamping down on imports from USA with extra Duty on US imports (Countervailing Duty or CVD)</li></ol>
 The solution was plainly simple - <q> Impose duties on China</q>
 The US did do that, and imposed over $200Bn worth of duties, severely hampering the Chinese industries. What is to be noted here is that, despite the Trade War being cloaked as a problem aimed at Chinese exporters, the Trade War was more about the US importers, and their increasing rates of imports into US mainland.
 The US wanted to corner the Chinese, with their Dollar might, and force them into accepting a Trade Deal that could benefit the USD, and prevent depreciation of the USD.
