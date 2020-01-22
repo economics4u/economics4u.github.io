@@ -11,7 +11,6 @@ tags:
   - budget
   - india
 author: arvind
-paginate: true
 ---
 
 <em> It is that time of the year again. The time when almost everyone around you becomes an economist par excellence. </em>
@@ -30,7 +29,7 @@ During the course of the previous year, the RBI has cut down it's benchmark Repo
 What Banks demand is additonal working capital, some clear guidance and lax NPA norms. It is worth noting that, some banks, have systemically and rather unusually, consistently, been exposed to higher NPAs, than others. Though this merits investigation, nothing has been done. Take the case of PNB. It isn't bad luck that a PSU bank has over 20% NPAs in almost all lending segments.
 Investors have thrown all the disturbing signals of steady declines in asset quality to the wind, as they were engrossed in taking up the Bank Index to an all time high, measuring up against it's western counterparts, when in fact, we are staring down at multiple Credit crises within the industry.
 Overall, to sum up the Banking Industry, Both PSBs, Pvt Banks and NBFCs have reduced asset quality, more NPAs, and lesser sanctioning rates now, which discourages consumption of loans, and would weaken the SME-scape. Banks are more concentrated on maintaining their provisioning to a minimum than to lend more.
---page-break--
+
 <br> As much as I'd love to talk about Start-up India movement, and the demands put forth by start-ups, it is highly unlikely that in such a complicated mess of problems in the larger Banking space, which needs dire intervention, this would ever be looked with seriousness in the present Budget. A few passing remarks and changes to the tax policy can be expected.
 <br><br><strong> 3. Consumer Goods</strong>
 <br> Now, this is an industry that has showed robust growth all through 2018, when the main bulk of large and heavy sectors were slowing down. The slowdown pattern in the consumer goods industry, has been rather dilatory, with definitive signs of slowing consumer demand being recorded in late 2018 - early 2019. Since then, the industry has faced several challenges, and still managed to stay relatively better poised than several other affected industries. We strongly believe that in order to put money in the hands of the end consumer, the Government must go for a reduction of the GST rates <a href="https://economics4u.org/a-possible-solution/">(we first laid down this idea in August 2019)</a>
