@@ -5,7 +5,7 @@ title: Budget 2020 - A Prelude
 subtitle: Different needs will be definitely fulfilled. But, at what cost?
 description: An in-depth analysis of the different needs and wants of different industries, and what the economy as a whole would need from the current budgeting exercise, and at what cost?
 image: https://res.cloudinary.com/economics4u/image/upload/v1579707224/budget_2020_prelude_qxzjhd.png
-optimized_image: https://res.cloudinary.com/economics4u/image/upload/v1579707224/budget_2020_prelude_qxzjhd.png
+optimized_image: https://res.cloudinary.com/economics4u/image/upload/v1579707224/budget_2020_prelude_small_i1ysps.png
 category: budget
 tags:
   - budget
