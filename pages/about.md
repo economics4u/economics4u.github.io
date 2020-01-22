@@ -1,18 +1,14 @@
 ---
 layout: page
 title: About
-description: Some description.
+description: About the team behind Economics4u
 permalink: /about/
 menu: true
 ---
 
-<img class="img-rounded" src="/assets/img/uploads/profile.png" alt="Thiago Rossener" width="200">
+<img class="img-rounded" src="/assets/img/uploads/arvind.png" alt="Arvind Venkat" width="200">
 
 # About
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Economics4 4 U was started off as a small pet projecte aimed at spreading the best of economics, business and finance at no cost to anyone whatsoever!
+Now, it serves that purpose exactly, and though we don't post content everyday, we post enough quality content to keep you busy thinking of our content for the next week!
