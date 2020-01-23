@@ -13,7 +13,7 @@ tags:
 author: arvind
 ---
 
-<em> It is that time of the year again. The time when almost everyone around you becomes an economist par excellence. </em>
+It is that time of the year again. The time when almost everyone around you becomes an economist par excellence. </em>
 In this article, we'd see what the budget 2020 holds potentially, with respect to the demands the various interest groups have put forward, and the ailing economy that has been forced on us through a combination of sheer bad timing and abuse of the Monetary Authority. The Economic outlook has been downgraded to Sub 5% levels. The Government has neither been able to meet it's disinvestment targets nor it's fiscal deficit targets, nor the Inflation targets!
 <em> First, let's see what the different interest groups demand from the government in terms of sops for their respective industries, and why.
 <br><br><strong> 1. Real Estate/Infra </strong>
