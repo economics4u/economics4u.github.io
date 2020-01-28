@@ -1,5 +1,5 @@
 ---
-date: 2020-01-23 00:01:00
+date: 2020-01-28 21:45:00
 layout: post
 title: Why should you Invest?
 subtitle: This is not why "you should Invest", but rather, "why should you invest?"
