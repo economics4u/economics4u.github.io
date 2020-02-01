@@ -1,5 +1,5 @@
 ---
-date: 2020-02-01 23:53:00
+date: 2020-02-02 00:10:00
 layout: post
 title: What does the Budget do to you?
 subtitle: Instead of talking about the Budget, let's talk about you - The Common Indian taxpayer.
@@ -16,7 +16,7 @@ author: arvind
 
 <em> Just like every year, this year had the one single excercise where one person would just be reading, and it would seem longer than the movie Irishman. <br>Okay, I know I'm  going to draw some flak for that.</em>
 
-Probably the most uninspiring, dull speech, that just goes on and on and on about numbers just came out today, and instead of online news articles which just go bonkers over the announcements, in this, we'd be looking at the Budget, and how it is going to change things for you and me, until the next Budget is out. The problem with people just exclaiming or going bonkers over any news that is out is that, in the excitement, you'd most probably not consider how it is going to affect you.
+Probably the most uninspiring, dull speech, that just goes on and on and on about numbers just came out yesterday, and instead of online news articles which just go bonkers over the announcements, in this, we'd be looking at the Budget, and how it is going to change things for you and me, until the next Budget is out. The problem with people just exclaiming or going bonkers over any news that is out is that, in the excitement, you'd most probably not consider how it is going to affect you.
 
 First things first, let's start from what Economics is about. It is about people exchanging their labour for money. Demand drives the economy. So, no matter what you do with Supply, if you don't have demand for your product, you can be pretty sure that your product would tank. That's pretty much the problem we have at hand. As I've more elaborately put it in the older posts, any economic Slowdown with declining Inflation (on the Manufacturers side) means - There is no demand, and it isn't a new sight for corporations to have extremely high levels of unsold inventory these days. This coupled with the several production cuts over the last couple years cries attention. This has made sure corporations lose a great deal of working capital and have turned into defaulters, turning the lack of demand in a highly leveraged environment,  into a huge cause for concern for the Banking industry as well.
 
