@@ -35,8 +35,6 @@ Investors, this is bad stuff for you. Be it your Mutual Funds, or Equities, now,
 
 Now you know why the markets crashed today!
 
-<br>
-
 Let's talk about Education and employment. Straight off, things look good, as for the first time, things seem to actually be workable solutions as skill development programmes are proposed. A good implementation alongside good training, can go a long way. But, if the new system of a fully online graduate level program is just another Graduate Program from a State run University, it just won't work, and would lead to a greater dearth of skilled candidates. A good way to implement these could be by doing these on a PPP model, rather than instituting a ministry for it, for we've seen how that has gone all these years. The outlay of a Lakh Crore, is good, but, we'd have to wait for the Model law to be released to comment on it.
 
 On the bright side, there is not going to be any Bailout of any failing Bank or finance institution, despite falling asset qualities, and the government is playing it right now. But, what is concerning is that, the RBI has expressed intentions to make 
