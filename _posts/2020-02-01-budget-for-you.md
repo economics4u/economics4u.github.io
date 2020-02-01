@@ -20,10 +20,12 @@ Probably the most uninspiring, dull speech, that just goes on and on and on abou
 
 First things first, let's start from what Economics is about. It is about people exchanging their labour for money. Demand drives the economy. So, no matter what you do with Supply, if you don't have demand for your product, you can be pretty sure that your product would tank. That's pretty much the problem we have at hand. As I've more elaborately put it in the older posts, any economic Slowdown with declining Inflation (on the Manufacturers side) means - There is no demand, and it isn't a new sight for corporations to have extremely high levels of unsold inventory these days. This coupled with the several production cuts over the last couple years cries attention. This has made sure corporations lose a great deal of working capital and have turned into defaulters, turning the lack of demand in a highly leveraged environment,  into a huge cause for concern for the Banking industry as well.
 
-What can be done? Quite simple, anything to boost demand. or, even inaction. Yes. The Economy heals itself unless we meddle with it. Has it been done? - No. (Anyway, we've had a great deal of content about it already, and we're not about critisicing any government per se, all we need at the end of the day is good policies that nurture the country) <br><strong> How is the Budget going to affect you?</strong>
+What can be done? Quite simple, anything to boost demand. or, even inaction. Yes. The Economy heals itself unless we meddle with it. Has it been done? - No. (Anyway, we've had a great deal of content about it already, and we're not about critisicing any government per se, all we need at the end of the day is good policies that nurture the country) 
+
+<br><strong> How is the Budget going to affect you?</strong>
 <br>
 
-Quite frankly, this Budget manages to hit the right spot when it comes to Startups, with a 5 year tax holiday. There is this quite exciting new Tax Law, that is optional, but, does more harm than good (Not just to the taxpayer, but also to the country)<br>
+Quite frankly, this Budget manages to hit the right spot when it comes to Startups, with a 5 year tax relief on ESOP and a proposed 3 consecutive years of tax holidays for startups turning over, under INR 100 Crores. There is this quite exciting new Tax Law, that is optional, but, does more harm than good (Not just to the taxpayer, but also to the country)<br>
 
 Any economy would grow faster, if people spend or invest rather than just save. Yes, with an investment, they take a risk, but, that risk is vital to nurture any economy. This was the reason behind all the tax sops investors got - "The reason being, the investors earned the money, and instead of spending for themselves, they chose to invest it, and are adding value to the economy"
 
