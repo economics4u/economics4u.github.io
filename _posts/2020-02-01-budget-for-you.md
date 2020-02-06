@@ -13,8 +13,7 @@ tags:
 author: arvind
 ---
 
-
-<em> Just like every year, this year had the one single excercise where one person would just be reading, and it would seem longer than the movie Irishman. <br>Okay, I know I'm  going to draw some flak for that.</em>
+<em> Just like every year, this year had the one single excercise where one person would just be reading, and it would seem longer than the movie Irishman. <br>Okay, I know I'm  going to draw some flak for that.</em>
 
 Probably the most uninspiring, dull speech, that just goes on and on and on about numbers just came out yesterday, and instead of online news articles which just go bonkers over the announcements, in this, we'd be looking at the Budget, and how it is going to change things for you and me, until the next Budget is out. The problem with people just exclaiming or going bonkers over any news that is out is that, in the excitement, you'd most probably not consider how it is going to affect you.
 
@@ -22,8 +21,16 @@ First things first, let's start from what Economics is about. It is about people
 
 What can be done? Quite simple, anything to boost demand. or, even inaction. Yes. The Economy heals itself unless we meddle with it. Has it been done? - No. (Anyway, we've had a great deal of content about it already, and we're not about critisicing any government per se, all we need at the end of the day is good policies that nurture the country) 
 
-<br><strong> How is the Budget going to affect you?</strong>
+<br><strong> How is the Budget going to affect you?</strong>
 <br>
+
+This was stated in the beginning of this post, "This is meant for the common Indian consumer", who, is the most important person in the entire economy, for the common consumer makes sure demand stems up, and is responsible for the flow of cash in an Economy.
+
+So, what do we get? That's the most logical question right? Apart from a few loan tenure extensions for the MSMEs, and extra loans for farmers, there just isn't anything here. Food inflation has soared recently, and is a heavy burden on the average Indian consumer. This budget doesn't aim to directly take on the issue, but, rather goes with an integrated cold storage system, which should make sure there is no hoarding. Weather resistant crops are an option that are left unexplored for the larger part.
+
+At the end of the day, all that the average Indian Consumer needs in todays' environment is not cash, but, a way to earn. Unemployment among youths is soaring, not for lack of education, but, for lack of skills. The Skill-Job gap is just way too large, with over 60% of youths in Cities, between 21 & 24 unemployed. It is not that they are unemployed, but, the fact that over 80% of them are unemployable, as their skills don't match the requirements. A nation-wide diploma based technical education system is the need of the hour. In this regard, an online employment portal for non-gazetted government jobs, in a move to reduce the corruption in recruitment process.
+
+One thing that is for sure is that, we'd most probably not be able to hit the $ 5 Trillion mark anytime soon, as it'd require a YoY growth in GDP upwards of 13%, and we're barely managing 3.7% even as per the revised estimates of the IMF.
 
 Quite frankly, this Budget manages to hit the right spot when it comes to Startups, with a 5 year tax relief on ESOP and a proposed 3 consecutive years of tax holidays for startups turning over, under INR 100 Crores. There is this quite exciting new Tax Law, that is optional, but, does more harm than good (Not just to the taxpayer, but also to the country)<br>
 
