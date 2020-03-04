@@ -1,5 +1,5 @@
 ---
-date: 2020-03-04 09:00:00
+date: 2020-03-04 18:00:00
 layout: post
 title: 50 Basis points for a Virus?
 subtitle: Did the Covid-19 impact the economy so bad that it needed a 50 bps respite?
