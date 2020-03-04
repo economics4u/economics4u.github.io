@@ -1,8 +1,8 @@
 ---
 date: 2020-03-04 09:00:00
 layout: post
-title: The Cost of a Virus
-subtitle: What does the coronavirus do to the economy?
+title: 50 Basis points for a Virus?
+subtitle: Did the Covid-19 impact the economy so bad that it needed a 50 bps respite?
 description: How bad is the impact of the covid-19? Is it the end of an era?
 image: https://res.cloudinary.com/economics4u/image/upload/v1583323750/coronavirus_buu1wl.jpg
 optimized_image: https://res.cloudinary.com/economics4u/image/upload/v1583323846/coronavirus_copy_wdmbpr.jpg
