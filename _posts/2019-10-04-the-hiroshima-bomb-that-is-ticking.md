@@ -18,14 +18,14 @@ Unpopular Opinion : The 2008 crisis was only PAUSED
 A Central bank, (not the Central Bank of India) is the apex monetary institution of any country. It prints currency notes, is responsible for the rates we have discussed about, and controls inflation (if the government co-operates)
 So, for this topic, we'd have to go all the way back to 2005.
 
-economics, moneyIt is April 2005 in the US of A and it's amazing. People are living their dream as employment is rising, inflation is low, interest rates are low, and banks are now giving off housing loans like crazy. No income proofs, little or no credit score verification, just loans on property as everyone thought, "C'mon, it's a piece of property, everyone needs a roof over their head, it has to keep appreciating!"
+It is April 2005 in the US of A and it's amazing. People are living their dream as employment is rising, inflation is low, interest rates are low, and banks are now giving off housing loans like crazy. No income proofs, little or no credit score verification, just loans on property as everyone thought, "C'mon, it's a piece of property, everyone needs a roof over their head, it has to keep appreciating!"
 
 Forward a bit, and a few like Michael Burry, Raghuram Rajan raise eyebrows at the loan trend and say, it's okay until now, but, time to stop.
 
 Banks now have given almost all of their funds as property loans. But, demand for loans isn't falling. So, investment companies who until now were silent, want a slice of this action.
 So, banks literally sell these loans off to investment companies. Both public and private institutions buy trillions of dollars of these. These investment companies pay banks and buy off their loans, which are classified as grade A, B, C. (It is called a credit score valuation), A being the safest with extremely good credit scores of the borrowers and decreasing down to C.
 
-These loans sold off in grades A to C, were called Collateralised Debt Obligations (CDOs), Okay.. let's keep them as just loans, I don't want you to close this blog and go back to scrolling FB as this gets technical.
+These loans, sold off in grades A to C, were called Collateralised Debt Obligations (CDOs), Okay.. let's keep them as just loans, I don't want you to close this blog and go back to scrolling FB as this gets technical.
 Some loans were unfortunately unsold because of their low credit scores. Banks wanted to offload them too, and put them together with the good loans, and the credit rating companies gave a good rating (cause if they didn't, the banks would take those loans to another credit rating company which would give them good rating, and pay them the hefty money).
 Wait... I know what you're thinking.. THIS IS FRAUD. Yes.
 What did this lead to?
